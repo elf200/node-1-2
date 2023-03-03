@@ -1,0 +1,21 @@
+{
+  "name": "1-2",
+  "version": "1.0.0",
+  "description": "node second lesson project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elf200/node-1-2.git"
+
+  },
+  "author": "Elfik Hovhannisyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elf200/node-1-2/issues"
+  },
+  "homepage": "https://github.com/elf200/node-1-2#readme"
+}
